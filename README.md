@@ -21,6 +21,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hong9915&layout=compact&hide_border=true" height="165" />
 </p>
 
+![Programmers Badge](https://raw.githubusercontent.com/Hong9915/Programmers_Badge_Generator/main/result/result.svg)
+
 ## 📌 Featured Projects
 
 - [algorithm](https://github.com/Hong9915/algorithm) — 알고리즘 문제 풀이 저장소 (Python)
