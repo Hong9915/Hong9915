@@ -22,10 +22,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hong9915&layout=compact&hide_border=true" height="165" />
 </p>
 
-<!-- 본인 데이터로 result.svg 생성되면 주석 해제
-![Programmers Badge](https://raw.githubusercontent.com/Hong9915/Programmers_Badge_Generator/main/result/result.svg?cache_buster=1)
--->
-
 ## 📌 Featured Projects
 
 - [theplayplus-admin](https://github.com/Hong9915/theplayplus-admin) — 문의 관리 어드민 (Next.js · Supabase · TypeScript)
